@@ -1,6 +1,6 @@
 function changeMessage() {
     const surpriseMessage = document.getElementById("surpriseMessage");
-    surpriseMessage.innerHTML = "You're going to crush it! I’m so proud of you!";
+    surpriseMessage.innerHTML = "You're going to absolutely smash it! Iâ€™m so proud of you!";
 
     // Create an image element for the Shrek GIF
     const shrekGif = document.createElement("img");
